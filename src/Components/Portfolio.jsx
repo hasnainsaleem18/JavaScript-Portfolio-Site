@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Airport Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have successfully completed a project on Airport Management System, employing pure object-oriented programming (OOP) concepts and file handling techniques. This project showcased my ability to design and implement a comprehensive system that effectively handles various aspects of airport operations, including passenger management, flight scheduling, and baggage handling. Through this project, I demonstrated my proficiency in utilizing OOP principles to create modular, scalable, and maintainable software solutions.",
+    url: "https://github.com/hasnainsaleem18/Airport_Management_oop_Project_c-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "TIC-TAC-TOE GAME",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have developed a Tic Tac Toe game using Python, implementing AI concepts where the opponent is a computer programmed to play at a challenging difficulty level. The game is built using Jupyter Notebook, leveraging various libraries for enhanced functionality. In order to optimize the game logic, I incorporated linked list data structure to efficiently handle the game board state and move calculations. This project showcases my proficiency in Python programming, AI algorithms, and data structures, allowing for an engaging and challenging gaming experience.",
+    url: "https://www.linkedin.com/in/hasnain-saleem-4b88101b8/",
   },
   {
-    title: "My Resume Site",
+    title: "C language codes",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Diverse C programs from basics to intermediate. Well-commented for clarity. Happy coding! 💻🚀",
+    url: "https://github.com/hasnainsaleem18/C-language-Codes",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blogs",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Problem Station isn’t just another tech blog; it’s a digital haven for curious minds, innovators, and anyone passionate about the transformative power of addressing challenges head-on. We delve into the heart of problems, dissecting them to reveal the innovative solutions that shape our future.",
+    url: "https://problemstation.wordpress.com/",
   },
 ];
 

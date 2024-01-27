@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm currently enrolled in bachelor of science in software engineering in FAST university. An intermediate python, C, C++ programmer doing some projects :)";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "C++",
+  "C Language",
+  "Java Script",
+  "Adobe Photoshop",
+  "WordPress",
 ];
 
 /**
@@ -45,8 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Throughout my academic journey, I've cultivated a diverse skill set in the field of technology. Starting from the age of 17, I delved into the world of programming and Arduino, setting the stage for my passion for technology. During O/A-LEVEL, I mastered Python, delving into libraries and completing beginner projects. In my first semester, I laid the foundation with C language, delving into the Linux Ubuntu kernel and Microsoft Office suite. Moving on to my second and third semesters, I expanded my coding skills in C++, Python, and Django, undertaking practical projects such as developing an airport management system in C++, as well as gaining insight into object-oriented programming, game development in Python, and utilizing tools like Jupyter and Anaconda. I also deepened my understanding of data structures, explored assistive technologies for the visually impaired, and acquired knowledge in software engineering methodologies such as SRS, Agile, Scrum, and Atlassian jira. Additionally, I executed design projects using HTML, CSS, Figma, Photoshop, and Illustrator. With a strong foundation in various technical areas, I am well-prepared to tackle a wide range of challenges in the tech industry.";
 const About = () => {
   return (
     <section className="padding" id="about">
